@@ -14,8 +14,7 @@ All the requirements needed can be found in [requirements.txt](https://github.co
 
 ## File Descriptions <a name="files"></a>
 
-(...): Jupyter notebook showcasing the thought process for the exploratory data analysis.
-(...): Buenos Aires Airbnb data from February 2021.
+airbnb_buenos_aires_analysis.ipynb: Jupyter notebook showcasing the thought process for the exploratory data analysis.
 
 ## Project Motivation <a name="motivation"></a>
 
@@ -29,7 +28,7 @@ Buenos Aires Airbnb data from February 2021 was used to answer the following thr
 
 ## Results <a name="results"></a>
 
-The main findings can be found at the post available [here](link to post).
+The main findings can be found at the post available [here](https://mercedesterragno.medium.com/hosting-in-buenos-aires-how-should-you-set-your-price-bd2eeef59631).
 
 ## Acknowledgements <a name="acknowledgements"></a>
 
