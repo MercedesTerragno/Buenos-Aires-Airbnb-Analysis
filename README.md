@@ -16,6 +16,8 @@ All the requirements needed can be found in [requirements.txt](https://github.co
 
 [airbnb_buenos_aires_analysis.ipynb](https://github.com/MercedesTerragno/Buenos-Aires-Airbnb-Analysis/blob/main/airbnb_buenos_aires_analysis.ipynb): Jupyter notebook showcasing the thought process for the exploratory data analysis.
 
+The dataset used can be downloaded [here](https://drive.google.com/uc?export=download&id=1QiByE06Qh_96ILI7m5RksT1gN1EYPuk5).
+
 ## Project Motivation <a name="motivation"></a>
 
 Airbnb is an online platform that connects people who want to rent out their homes with people who are looking for accommodations in that locale. Setting the right price can be challenging for new hosts, and it's fundamental to find the sweet spot between occupancy and price. 
