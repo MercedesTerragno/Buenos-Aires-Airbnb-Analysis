@@ -1,12 +1,13 @@
 # Buenos Aires Airbnb Analysis
 
+**Main findings can be found at this [Medium Post](https://mercedesterragno.medium.com/hosting-in-buenos-aires-how-should-you-set-your-price-bd2eeef59631).**
+
 ### Table of Contents
 
 1. [Installation](#installation)
 2. [File Descriptions](#files)
 3. [Project Motivation](#motivation)
-4. [Results](#results)
-5. [Acknowledgements](#acknowledgements)
+4. [Acknowledgements](#acknowledgements)
 
 ## Installation <a name="installation"></a>
 
@@ -28,9 +29,6 @@ Buenos Aires Airbnb data from February 2021 was used to answer the following thr
 - What are the prices in different neighbourhoods?
 - What attributes of a listing correlate with price?
 
-## Results <a name="results"></a>
-
-The main findings can be found at this [medium post](https://mercedesterragno.medium.com/hosting-in-buenos-aires-how-should-you-set-your-price-bd2eeef59631).
 
 ## Acknowledgements <a name="acknowledgements"></a>
 
