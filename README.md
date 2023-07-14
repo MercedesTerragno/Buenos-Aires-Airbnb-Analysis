@@ -1,4 +1,4 @@
-# Buenos Aires Airbnb Analysis (with a change)
+# Buenos Aires Airbnb Analysis
 
 **Main findings can be found at this [Medium Post](https://mercedesterragno.medium.com/hosting-in-buenos-aires-how-should-you-set-your-price-bd2eeef59631).**
 
